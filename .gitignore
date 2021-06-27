@@ -11,3 +11,6 @@ web-build/
 
 # macOS
 .DS_Store
+
+#Ingnora pastas que vc nao quer mandar para o github
+.env
